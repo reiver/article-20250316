@@ -14,7 +14,7 @@ Nostr,
 Pixelfed,
 and others.
 
-Farcaster founder [Dan Romero](https://warpcast.com/dwr.eth) emphasized two things that would come to **Coinbase Wallet** due to it integrating **Farcaster**:
+In the announcement, Farcaster founder [Dan Romero](https://warpcast.com/dwr.eth) emphasized two things that would come to **Coinbase Wallet** due to it integrating **Farcaster**:
 Farcaster's **open social-graph**, and the abililty to **go viral**.
 
 Coinbase also echoed this on the [2025 roadmap](https://base.mirror.xyz/AStCR6Mtv7U6yEL0K4tpeXvrKaN_LbGySt0tPfn_Eyw) they published:
@@ -27,7 +27,7 @@ Coinbase also echoed this on the [2025 roadmap](https://base.mirror.xyz/AStCR6Mt
 For example, if the social-media user "joeblow" has 1,000 followers, and his (new) posts are usually only engaged with by (at most) 10 of his followers, then — a **viral** post of his might been seen & engaged with by 30,000 people, which would of course include many people who are not following him.
 
 Although _virality_ has a lot of different types of utiliy, _virality_ is (also) useful as a _marketing tool_.
-For example, a small team of people (without funds for paid advertising) creating a new product or service can bring attention to themselves and their product or service by _going viral_.
+For example, a small team of people creating a new product (without funds for paid advertising) can bring attention to themselves and their new product by _going viral_.
 _Going viral_ is also seen as an acceptable alternative to intrusive advertising, by those to dislike, disdain, and despise instrusive ads.
 
 But, what about the **open social-graph**‽
