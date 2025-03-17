@@ -46,7 +46,7 @@ An _**open** social-graph_ is one that can be accessed by anyone in an **open** 
 
 This (_open_ & _permissionless_ access to the _social-graph_) is a key characteristic of _all_ decentralized social-media (DeSo) networks
 —
-including of course Farcaster, but also include the [Bluesky](https://bsky.app/), **Fediverse**, [Mastodon](https://joinmastodon.org/), [Misskey](https://misskey-hub.net/), [Pixelfed](https://pixelfed.org/), **Nostr**, and many others.
+including of course Farcaster, but also includes [Bluesky](https://bsky.app/), the **Fediverse**, [Mastodon](https://joinmastodon.org/), [Misskey](https://misskey-hub.net/), [Pixelfed](https://pixelfed.org/), **Nostr**, and many others.
 And, is important to developers looking to build an application or service on top of a social-network.
 
 ## Why Does Coinbase Care?
