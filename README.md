@@ -16,7 +16,7 @@ Farcaster is similar to Twitter (now called X), Mastodon, and Bluesky in its exp
 
 Its integration with the _Coinbase Wallet_ would make it easier for people to interact with Farcaster’s social feed and mini-apps, greatly expanding its user-base.
 
-## Open Social-Graph & Going Viral
+## Open Social-Graph and Viral Potential
 
 In the announcement, Farcaster founder [Dan Romero](https://warpcast.com/dwr.eth) highlighted two key elements that will come to _Coinbase Wallet_:
 
