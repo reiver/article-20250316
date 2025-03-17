@@ -14,7 +14,7 @@ If realized, this user-growth could significantly impact Farcaster, which, as of
 [Farcaster](https://www.farcaster.xyz/) is is a decentralized social-media (DeSo) network built on an open protocol, allowing users to connect freely without the control of a central authority.
 Farcaster is similar to Twitter (now called X), Mastodon, and Bluesky in its experience.
 
-Its integration with the _Coinbase Wallet_ would make it easier for people to interact with Farcaster’s social feed and mini-apps, greatly expanding its user-base.
+Its integration with the _Coinbase Wallet_ would make it easier for people to interact with Farcaster’s social-feed and mini-apps, greatly expanding its user-base.
 
 ## Open Social-Graph and Viral Potential
 
@@ -41,7 +41,7 @@ Smaller creators or startups can use virality to gain visibility without relying
 
 But, what about the **open social-graph**‽
 **Virality** happens on a **social-graph** — without a _social-graph_ there is no _virality_.
-A **social-graph** is the _network_ made up of the _people_ on a social-network, and the _connections_ between then.
+A **social-graph** is essentially the network of users and the connections between them.
 An _**open** social-graph_ is one that can be accessed by anyone in an **open** & **permissionless** manner.
 
 This (_open_ & _permissionless_ access to the _social-graph_) is a key characteristic of _all_ decentralized social-media (DeSo) networks
@@ -49,45 +49,16 @@ This (_open_ & _permissionless_ access to the _social-graph_) is a key character
 including of course Farcaster, but also include the [Bluesky](https://bsky.app/), **Fediverse**, [Mastodon](https://joinmastodon.org/), [Misskey](https://misskey-hub.net/), [Pixelfed](https://pixelfed.org/), **Nostr**, and many others.
 And, is important to developers looking to build an application or service on top of a social-network.
 
-## Bigger Picture
+## Why Does Coinbase Care?
 
-What is in it for Coinbase‽
-Why should they care about the Farcaster social-feed or mini-apps‽
-It seems clear why Farcaster might desire this parntership
-—
-_user growth_ for Farcaster,
-perhaps also "progress" in the eyes of investors,
-clout due to an official partnership with Coinbase,
-a higher future valuation for Farcaster due to the partnership,
-etc.
-But, why would Coinbase be interested in this‽
+While Farcaster stands to gain significant growth from this partnership, one might wonder: _Why is Coinbase interested?_
 
-One factor might be that, Dan Romero has a lot of _social capital_ within Coinbase.
-Dan Romero is not only a former employee (a Vice President) at Coinbase, but he and his Farcaster co-founder [Varun Srinivasan](https://warpcast.com/v) are also members of the (so called) _"Coinbase Mafia"_.
+Several factors may be at play:
 
-The _Coinbase Mafia_, an homage to the [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia), is group of early Coinbase employees who each became rich or wealthy due to stock-options they were granted as part of their employment.
-Startups often grant stock-options to their early employees as motivation to work hard, and as compensation for working for a startup with — low pay, long and possibly grueling work hours, and no job security.
-If these early employees can help turn the startup into a successful company, they are hopefully _rewarded generously_.
-Most startups fail and most early startup employees never receive their _generous reward_.
-And even for the ones that succeed, the reward is often _less-than hoped for_.
-But — for Coinbase and their early employees, it worked out.
-Like their _PayPal Mafia_ counterparts, many of the _Coinbase Mafia_ have gone on to found, develop, or invest in additional technology companies.
-(Farcaster would be one example of this.)
-Within the non-Bitcoin side of the cryptocurrency communities and industry, members of the _Coinbase Mafia_ have a very large amount of _influence_, _sway_, and _soft power_.
-Within cryptocurrency circles, the _Coinbase Mafia_ is also sometimes known by the tongue-in-cheek name of _"the cool kids' club"_.
-Many investors will invest in any startup they are involved in, no due diligence necessary.
-Many companies will hire them, no interview necessary.
+* **Dan Romero**'s influence: A former VP at Coinbase, Romero is well-connected within both the cryptocurrency and tech industries, providing credibility and potential leverage.
+* **Coinbase Mafia**: Like the "PayPal Mafia," members of the _Coinbase Mafia_ (such as Dan Romero and his Farcaster co-founder [Varun Srinivasan](https://warpcast.com/v)) hold significant sway within the cryptocurrency sector, making this partnership more strategic than purely financial.
+* **Onboarding mainstream users**: Coinbase is focusing on onboarding the "next billion users" to cryptocurrencies. Social media is a key vector for reaching non-crypto users, and Farcaster could be instrumental in this mission.
 
-Another factor might be that, Dan Romero also has reputation for being very well connected to the rich and powerful in the cryptocurrency industry, and to the broader Tech industry.
-He is seen as someone who has access to those who can _move the levers of power_.
+## Bigger Picture: Attracting Non-Crypto Users
 
-Beyond these, this move may fit into a larger picture in the cryptocurrency communities and industries
-—
-_how to onboard the next billion users onto cryptocurrencies_.
-One thought is that the _next billion people_ will come from _regular people_.
-And, social-media is seen as a way to get to _regular people_.
-
-With respect to this, one challenge for Farcaster is that №1 (at the time of writing) Farcaster is the smallest of these decentralized social-media (DeSo) networks, and №2 Farcaster's existing users are people already using cryptocurrencies.
-
-This might suggest that Farcaster will soon be looking for ways to attract and bring on people and communities with _no_ cryptocurrency familiarity.
-Perhaps by focusing on entertainment, or by bringing on influencers (who would draw their fans to Farcaster), etc.
+While Farcaster currently appeals mostly to cryptocurrency enthusiasts, the partnership with Coinbase could be a step towards attracting non-crypto users. This could involve focusing on entertainment, influencers, or other cultural elements that appeal to the masses.
