@@ -1,18 +1,9 @@
 # Farcaster Coming To Coinbase Wallet
 
 [Coinbase recently announced](https://warpcast.com/coinbasewallet/0x5f8e2bbf) that the Farcaster **social-feed** and **mini-apps** (called "frames") will be coming to the [Coinbase Wallet](https://www.coinbase.com/wallet).
-This would turn the _Coinbase Wallet_ into a _Farcaster social-media client app_, potentially bring Farcaster to millions of more (and perhaps even tens-of-millions or hundreds-of-millions more) users.
+This collaboration has the potential to transform _Coinbase Wallet_ into a _Farcaster social-media client_, and potentially bringing Farcaster to millions (if not tens-of-millions or hundreds-of-millions) more users.
 
-If realized, this user-growth would be significant for Farcaster, as (at the time of writing) it is currently the _smallest_ of the (significant) decentralized social-media (DeSo) networks
-—
-which, in addition to Farcaster, also includes:
-Bluesky,
-Fediverse,
-Mastodon,
-Misskey,
-Nostr,
-Pixelfed,
-and others.
+If realized, this user-growth could significantly impact Farcaster, which, as of now, is the smallest among prominent decentralized social-media (DeSo) networks like Bluesky, Mastodon, Nostr, and others.
 
 ## Open Social-Graph & Going Viral
 
