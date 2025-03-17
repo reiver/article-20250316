@@ -29,15 +29,13 @@ Coinbase also echoed this on the [2025 roadmap](https://base.mirror.xyz/AStCR6Mt
 >
 > **Helping apps get discovered.** We’re adding a social graph to the Coinbase Wallet app by leveraging [Farcaster](http://farcaster.xyz/), an open, social protocol that anyone can build on top of. We’ll use Farcaster to power a full social feed, as well as mini-apps with [Frames v2](https://docs.farcaster.xyz/developers/frames/v2/). These are bite-sized onchain experiences — created in minutes — allowing users to take actions without leaving the feed.
 
-## Going Viral
+## Understanding Virality
 
-**Going viral** is when a _social-media post_ gains an exceptionally high-level of visibility and engagement in a short period of time.
-For example, if the social-media user "joeblow" has 1,000 followers, and his (new) posts are usually only engaged with by (at most) 10 of his followers, then — a **viral** post of his might been seen & engaged with by 30,000 people, which would of course include many people who are not following him.
-This usually happens due to _mass sharing_ — what Twitter (not X) used to call "retweeting" but now calls "reposting", what Mastodon used to call "retooting" but not calls "boosting", and what Bluesky calls "reposting".
+**Virality** occurs when a social media post gains significant attention in a short amount of time.
+For example, a user with 1,000 followers might see their post engaged with by tens of thousands due to sharing and resharing across the social-network.
 
-Although, _virality_ has a lot of different types of utiliy, _virality_ is (also) useful as a _marketing tool_.
-For example, a small team of people creating a new product (without funds for paid advertising) can bring attention to themselves and their new product by _going viral_.
-_Going viral_ is also seen as an acceptable alternative to intrusive advertising, by those to dislike, disdain, and despise instrusive ads.
+This phenomenon is not just about popularity; it’s a powerful marketing tool.
+Smaller creators or startups can use virality to gain visibility without relying on paid ads, which many people find intrusive.
 
 ## Open Social-Graph
 
