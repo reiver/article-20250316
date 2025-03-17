@@ -1,14 +1,27 @@
 # Farcaster Coming To Coinbase Wallet
 
 [Coinbase recently announced](https://warpcast.com/coinbasewallet/0x5f8e2bbf) that the Farcaster **social-feed** and **mini-apps** (called "frames") will be coming to the [Coinbase Wallet](https://www.coinbase.com/wallet).
-This collaboration has the potential to transform _Coinbase Wallet_ into a _Farcaster social-media client_, and potentially bringing Farcaster to millions (if not tens-of-millions or hundreds-of-millions) more users.
+This collaboration has the potential to transform the _Coinbase Wallet_ into a _Farcaster social-media client_, and potentially bringing Farcaster to millions (if not tens-of-millions or hundreds-of-millions) more users.
 
-If realized, this user-growth could significantly impact Farcaster, which, as of now, is the smallest among prominent decentralized social-media (DeSo) networks like Bluesky, Mastodon, Nostr, and others.
+If realized, this user-growth could significantly impact Farcaster, which, as of now, is the smallest among prominent decentralized social-media (DeSo) networks such as Bluesky, Mastodon, Nostr, and others.
+
+## What Is Coinbase
+
+[Coinbase](https://www.coinbase.com/) is a popular cryptocurrency exchange platform that allows users to buy, sell, store, and trade various cryptocurrencies, such as Arbitrum, Avalanche, Base, Bitcoin, Ethereum, Optimism, Polygon, Solana, and many others.
+
+## What Is Farcaster
+
+[Farcaster](https://www.farcaster.xyz/) is is a decentralized social-media (DeSo) network built on an open protocol, allowing users to connect freely without the control of a central authority.
+Farcaster is similar to Twitter (now called X), Mastodon, and Bluesky in its experience.
+
+Its integration with the _Coinbase Wallet_ would make it easier for people to interact with Farcaster’s social feed and mini-apps, greatly expanding its user-base.
 
 ## Open Social-Graph & Going Viral
 
-In the announcement, Farcaster founder [Dan Romero](https://warpcast.com/dwr.eth) emphasized two things that would come to **Coinbase Wallet** due to it integrating **Farcaster**:
-Farcaster's **open social-graph**, and the abililty to **go viral**.
+In the announcement, Farcaster founder [Dan Romero](https://warpcast.com/dwr.eth) highlighted two key elements that will come to _Coinbase Wallet_:
+
+1. **Open Social-Graph**
+2. **Viral Potential**
 
 Coinbase also echoed this on the [2025 roadmap](https://base.mirror.xyz/AStCR6Mtv7U6yEL0K4tpeXvrKaN_LbGySt0tPfn_Eyw) they published:
 
@@ -41,7 +54,6 @@ And, is important to developers looking to build an application or service on to
 ## Bigger Picture
 
 What is in it for Coinbase‽
-After all, [Coinbase](https://www.coinbase.com/) is a popular cryptocurrency exchange platform that allows users to buy, sell, store, and trade various cryptocurrencies, such as Arbitrum, Avalanche, Base, Bitcoin, Ethereum, Optimism, Polygon, Solana, and many others.
 Why should they care about the Farcaster social-feed or mini-apps‽
 It seems clear why Farcaster might desire this parntership
 —
