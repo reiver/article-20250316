@@ -61,4 +61,5 @@ Several factors may be at play:
 
 ## Bigger Picture: Attracting Non-Crypto Users
 
-While Farcaster currently appeals mostly to cryptocurrency enthusiasts, the partnership with Coinbase could be a step towards attracting non-crypto users. This could involve focusing on entertainment, influencers, or other cultural elements that appeal to the masses.
+While Farcaster currently appeals mostly to cryptocurrency enthusiasts, the partnership with Coinbase could signal a coming effort towards attracting non-crypto users.
+This could involve focusing on entertainment, influencers, or other cultural elements that appeal to the masses.
